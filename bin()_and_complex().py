@@ -7,5 +7,13 @@ formula = (6 * a**3) - (8 * b**2) / 4 * c + 11
 print(formula)
 
 
+# complex
+x = 3 + 5j
+y = 5j
+print(type(x))
+print(type(y))
+
+
+
 
 
